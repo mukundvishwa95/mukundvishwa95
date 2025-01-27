@@ -89,7 +89,7 @@ I'm a cybersecurity student and aspiring ethical hacker with a focus on web appl
 
   ![My Stats](https://github-readme-stats.vercel.app/api?username=mukundvishwa95&theme=vision-friendly-dark&&bg_color=00000000&hide_border=false&custom_title=Overall)
   
-  [![Streak](https://streak-stats.demolab.com?user=mukundvishwa95&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/mukundvishwa95/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundvishwa95&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![Streak](https://streak-stats.demolab.com?user=mukundvishwa95&theme=dark&card_width=450&bg_color=00000000&hide_border=flase)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/mukundvishwa95/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundvishwa95&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=false" width="450"" /></a></p>
 
 <br><br>
