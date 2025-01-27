@@ -41,7 +41,7 @@ I'm a cybersecurity student and aspiring ethical hacker with a focus on web appl
 
 👉 Creating a base to hop into Reverse Engineering.
 
-`Updating:`  Journey to become World's No. 1.
+`👉 Goal:`  To become World's No. 1.
 
 ---
 
