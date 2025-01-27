@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=Myslef+Mukund+Vishwakarma" alt="Typing SVG" />
+    <img align='center' width="50%" src="https://readme-typing-svg.demolab.com?font=Bank+Gothic&pause=1000&color=FF2222&width=435&lines=Myslef+Mukund+Vishwakarma" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,8 +19,8 @@ I'm a cybersecurity student and aspiring ethical hacker with a focus on web appl
 - **From**: India
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **my X**
-- Potfolio(comming up)
+- Reach me out at **[my X](https://x.com/MukundVishwa785)**
+- Protfolio(comming up)
 
 </details>
 <br>
@@ -41,7 +41,7 @@ I'm a cybersecurity student and aspiring ethical hacker with a focus on web appl
 
 👉 Creating a base to hop into Reverse Engineering.
 
-`Updating:`  Journey to Cybersecurity Specialist.
+`Updating:`  Journey to become World's No. 1.
 
 ---
 
@@ -84,35 +84,12 @@ I'm a cybersecurity student and aspiring ethical hacker with a focus on web appl
 ---
 
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<h2 id="github_stats" align=''> Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+
+  ![My Stats](https://github-readme-stats.vercel.app/api?username=mukundvishwa95&theme=vision-friendly-dark&&bg_color=00000000&hide_border=false&custom_title=Overall)
+  
+  [![Streak](https://streak-stats.demolab.com?user=mukundvishwa95&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/mukundvishwa95/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundvishwa95&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
-
-
-
-<h2 id="donate" align=''> Support⚡️</h2>
-
-<details>
-<summary>Buy Me A Coffee</summary>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
-
-<p align="center"><a href="https://buymeacoffee.com/coffinxp"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-</details>
-
-
-
-
-<p align="center">
-  <b><i>"Never give up. Never back down."</i></b>
-</p>
-
-<p align="center">
-<a>🌱</a>
-</p>
